@@ -1,4 +1,3 @@
-Here's a corrected and refined version of your project description with proper formatting and clear instructions:  
 
 ---
 
