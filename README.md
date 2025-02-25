@@ -9,13 +9,12 @@ This is an **interactive command-line calculator** built using the **Command Pat
 
 🚀 **Supports both normal and asynchronous operations for improved performance!**  
 
-test caseses
+Run below command to initial setup
+[pip install -r requirements.txt]
 
+test caseses
+[export PYTHONPATH=$(pwd)]  #present working directory setup
 [pytest]
 
-How to run 
-
-[python main.py]
-
-
-
+How to run program
+[python main.py or py main.py]
