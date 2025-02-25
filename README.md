@@ -10,10 +10,12 @@ This is an **interactive command-line calculator** built using the **Command Pat
 🚀 **Supports both normal and asynchronous operations for improved performance!**  
 
 test caseses
-pytest
+
+[pytest]
 
 How to run 
-python main.py
+
+[python main.py]
 
 
 
