@@ -31,3 +31,6 @@ jobs:
 
       - name: Run tests (ignoring specific tests)
         run: pytest --deselect tests/test_commands.py::test_divide_by_zero --deselect tests/test_invoker.py::test_execute_unregistered_command
+
+      - name: Run the file 
+        run: python mmain.py
